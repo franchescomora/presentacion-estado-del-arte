@@ -7,8 +7,11 @@ https://github.com/SoftwareLibre/stockfish.reveal.git
 ##Hacking
 
 Clonar el repositorio:
+
 $  git clone https://github.com/franchescomora/presentacion-estado-del-arte
+
 $  cd  presentacion-estado-del-arte
+
 $  grunt serve
 
 Ya se puede mirar la presentación en http://localhost:8000
