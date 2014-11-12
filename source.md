@@ -408,6 +408,7 @@ Slide:
 * http://daringfireball.net/projects/markdown/
 * http://www.centrocp.com/los-mooc-origenes-historia-y-tipos/
 * http://elbonia.cent.uji.es/jordi/2013/07/21/mooc-el-abismo-de-la-desilusion/
+* http://www.centrocp.com/los-mooc-origenes-historia-y-tipos/
 
 
 Slide:
