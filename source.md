@@ -407,12 +407,13 @@ Slide:
 * http://jekyllrb.com/
 * http://daringfireball.net/projects/markdown/
 * http://www.centrocp.com/los-mooc-origenes-historia-y-tipos/
-* http://elbonia.cent.uji.es/jordi/2013/07/21/mooc-el-abismo-de-la-desilusion/
-* http://www.centrocp.com/los-mooc-origenes-historia-y-tipos/
+
 
 
 Slide:
 ##References
+* http://elbonia.cent.uji.es/jordi/2013/07/21/mooc-el-abismo-de-la-desilusion/
+* http://www.centrocp.com/los-mooc-origenes-historia-y-tipos/
 * https://www.insidehighered.com/news/2013/07/18/citing-disappointing-student-outcomes-san-jose-state-pauses-work-udacity
 * https://www.insidehighered.com/news/2013/07/09/higher-ed-leaders-urge-slow-down-mooc-train
 * http://aj.spadial.com/push-pull-fork-github-para-academicos.html
